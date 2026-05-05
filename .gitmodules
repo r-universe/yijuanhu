@@ -5,3 +5,6 @@
 [submodule "LDM"]
 	path = LDM
 	url = https://github.com/yijuanhu/ldm
+[submodule "LOCOM2"]
+	path = LOCOM2
+	url = https://github.com/yijuanhu/locom2
