@@ -8,3 +8,6 @@
 [submodule "LOCOM2"]
 	path = LOCOM2
 	url = https://github.com/yijuanhu/locom2
+[submodule "TestNet"]
+	path = TestNet
+	url = https://github.com/yijuanhu/testnet
